@@ -1,2 +1,2 @@
-# Live Segmentation
+# Liver Segmentation
 Liver Segmentation
